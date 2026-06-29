@@ -63,7 +63,7 @@ src/
 
 ```bash
 # 1. Clone or download the repository
-git clone <your-repo-url>
+git clone https://github.com/MedisettiRenukeswar/user-management-dashboard
 cd user-management-dashboard
 
 # 2. Install dependencies
